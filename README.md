@@ -12,4 +12,5 @@ Passionate about clean, maintainable code, applying SOLID principles and design 
 * ASP.NET Core (C#)
 * Django (Python)
 * Linux
+* Docker
 * Git
