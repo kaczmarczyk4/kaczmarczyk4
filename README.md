@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kacper 👋
 
-<!--
-**kaczmarczyk4/kaczmarczyk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineer and currently a Master's student, specializing in backend development with Spring Boot. I also have knowledge of the .NET ecosystem and experience in Django.
 
-Here are some ideas to get you started:
+Passionate about clean, maintainable code, applying SOLID principles and design patterns to build reliable and scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* Spring Boot (Java)
+* REST APIs
+* PostgreSQL
+* ASP.NET Core (C#)
+* Django (Python)
+* Linux
+* Git
